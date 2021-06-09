@@ -1,6 +1,6 @@
 # Robustness Disparities in Commercial Face Detection
 
-![Overview](./assets/Overview.pdf) "Overview image")
+![Overview](./assets/Overview.png) "Overview image")
 
 Facial detection and analysis systems have been deployed by large companies and critiqued by scholars and activists for the past decade. Critiques that focus on system performance analyze disparity of the system's output, i.e., how frequently is a face detected for different Fitzpatrick skin types or perceived genders. However, we focus on the robustness of these system outputs under noisy natural perturbations. We present the first of its kind detailed benchmark of the robustness of two such systems: Amazon Rekognition and Microsoft Azure. Using both standard and recently released academic facial datasets, we find that photos of individuals who are _older_, _masculine presenting_, of _darker skin type_, or have _dim lighting_ are more susceptible to errors than their counterparts in other identities.
 
