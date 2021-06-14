@@ -74,6 +74,16 @@ This will save one json for each image and response. The json is structured like
 }
 ```
 
+# Citation
+```
+@article{dooley2020robustness,
+  title={Robustness Disparities in Commercial Face Detection},
+  author={Dooley, Samuel and Goldstein, Thomas and Dickerson, John P.},
+  journal={Working Paper},
+  year={2021}
+}
+```
+
 # Contact
 
 If you'd like more information, get in [contact with us](mailto:sdooley1@cs.umd.edu)! Happy to share more details or data or answer questions.
